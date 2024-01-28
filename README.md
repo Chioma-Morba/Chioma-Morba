@@ -1,5 +1,6 @@
-# Hi there 👋
-My name is Chioma Morba, I am a Statistician, Data Analyst, and Business Intelligence Analyst.
+### Hi there 👋
+## I am Chioma Morba, 
+### A Statistician, Data Analyst, and Business Intelligence Analyst.
 
 
 
